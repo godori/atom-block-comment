@@ -8,5 +8,5 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 'atom-text-editor':
-  'alt-cmd-/': 'block-comment:toggle'
+  'ctrl-cmd-/': 'block-comment:toggle'
   'ctrl-?': 'block-comment:toggle'
