@@ -14,8 +14,8 @@ module.exports =
     else if extension is 'coffee'
       commentStart = '###'
       commentEnd = '###'
-    else if extension is 'html'
-      commentStart = '<!--'
+    else if extension is 'ftl'
+      commentStart = '<#--'
       commentEnd = '-->'
     else if extension is 'php'
       commentStart = '/**\n
